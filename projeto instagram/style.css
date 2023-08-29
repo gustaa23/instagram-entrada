@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: rgba(253, 253, 253, 0.801);
     margin: 0;
     padding: 0;
     display: flex;
